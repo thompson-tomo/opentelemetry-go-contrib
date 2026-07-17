@@ -7,7 +7,7 @@ require (
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp v1.34.0
 	github.com/google/go-cmp v0.7.0
 	github.com/stretchr/testify v1.11.1
-	go.opentelemetry.io/otel v1.44.1-0.20260713231842-9778affd47e2
+	go.opentelemetry.io/otel v1.44.1-0.20260716223236-f846f1677f5e
 	go.opentelemetry.io/otel/sdk v1.44.1-0.20260625150014-c84013202f01
 )
 
